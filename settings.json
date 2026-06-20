@@ -8,9 +8,8 @@
   "server": {
     "ip": "Uchiha_ClanEXJR.aternos.me",
     "port": 37197,
-    "version": "",
-    "try-creative": false
-  },
+    "version": "26.1.2",
+    "try-creative: false  },
   "position": {
     "enabled": true,
     "x": 0,
